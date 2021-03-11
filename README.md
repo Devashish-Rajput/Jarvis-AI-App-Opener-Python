@@ -18,4 +18,9 @@ In order to use the script, you must install the required packages.
 <h2> ->You can schedule the script so that it can start when your computer starts up. </h2> 
 <h2> ->These buttons will always be on top no matter which app you open. </h2>
 <h2> ->You can even change its position wherever you are comfortable for it</h2>
-<h2> ->Right now it does not close apps you can add that functionality to but it will be quite complicated but apps. </h2>
+<h2> ->Right now it does not close apps you can add that functionality to but it will be quite complicated. </h2>
+
+Thanks for Visiting it........
+
+
+Created by Devashish Rajput
