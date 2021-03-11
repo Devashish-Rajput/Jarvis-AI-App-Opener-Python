@@ -1,6 +1,6 @@
 <h1># Jarvis-AI-App-Opener-Python</h1>
 
-This is simple script to open by speaking directly. 
+This is simple script to open apps by speaking directly. 
 In order to use the script, you must install the required packages.
 
 
